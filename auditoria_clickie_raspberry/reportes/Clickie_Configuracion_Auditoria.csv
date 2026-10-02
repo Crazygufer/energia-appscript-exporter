@@ -1,0 +1,10 @@
+﻿equipo,codigo,uuid,escala,estado_escala,motivo
+Hypet 400-3,hyp400_3,38e371c4-f2e7-46ed-a0a7-7ba6a5dab360,1.0,DEFAULT,Caso crítico estudiado: transición de escala/discontinuidades en Ignition.
+Hypet 500-2,hyp500_2,9faeb035-e10e-4fd9-87f4-70632f2753d2,1.0,DEFAULT,Caso crítico estudiado: transición de escala/discontinuidades en Ignition.
+IPS 400-2,ips400_2,6da7639c-7481-405d-9415-3e599bc8dd02,0.1,VALIDATED,Escala 0.1 previamente conciliada contra referencia Clickie.
+CCM 2,ccm2,2c0fde28-81d3-404f-9983-9db8f2fb2e3d,0.1,VALIDATED,Escala 0.1 previamente conciliada contra referencia Clickie.
+CCM 3,ccm3,bdb14b8e-b06e-4d48-b683-13f0d3dc271d,0.1,VALIDATED,Escala 0.1 previamente conciliada contra referencia Clickie.
+Blomacs 10,blm10,263f108c-b499-4706-8ffd-24a4e71096ab,0.1,VALIDATED,Escala 0.1 previamente validada; se audita además por discontinuidades observadas.
+KHS 8,khs8,4a6fbb73-d1ff-4ae5-b6a1-236df6fdeb57,0.1,PROVISIONAL,Escala 0.1 provisional; acumulador ha mostrado discontinuidades/reset.
+CCM 1,ccm1,ff0263d8-07a0-4d37-8840-88d4414ada88,1.0,CONTROL,Control de comparación frente a CCM2/CCM3; no aplicar escala por familia sin validar.
+SB08,sb08,cf8918f9-50c6-42be-84e3-46905b288fa8,1.0,CONTROL,Control adicional de Soplado/Raspberry.

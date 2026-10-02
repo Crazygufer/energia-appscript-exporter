@@ -1,0 +1,7 @@
+﻿fecha_actualizacion,origen,regla_dia_operativo,bloque,periodo,agua_m3,variable,valor_inicial,valor_final,registros,desde,hasta
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,mes_actual,2026-07,1715.0,Totalizado_Pozo,73111.0,74826.0,7268,2026-07-01 07:00:00,2026-07-29 07:00:00
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,mes_anterior,2026-06,1480.0,Totalizado_Pozo,71631.0,73111.0,8082,2026-06-01 07:00:00,2026-07-01 07:00:00
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,semana_actual,2026-W31,150.0,Totalizado_Pozo,74676.0,74826.0,564,2026-07-27 07:00:00,2026-07-29 07:00:00
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,semana_anterior,2026-W30,419.0,Totalizado_Pozo,74257.0,74676.0,1885,2026-07-20 07:00:00,2026-07-27 07:00:00
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,dia_anterior,2026-07-28,76.0,Totalizado_Pozo,74750.0,74826.0,281,2026-07-28 07:00:00,2026-07-29 07:00:00
+2026-07-29 16:50:21,PythonLocal,07:00-07:00,dia_anterior_anterior,2026-07-27,73.0,Totalizado_Pozo,74676.0,74749.0,283,2026-07-27 07:00:00,2026-07-28 07:00:00

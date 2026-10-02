@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Logs y salidas
+logs/
+output/
+lock/
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+~$*.xlsx
+
+# Credenciales / configuración local
+.env
+config.local.json
+secrets.json
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel generados
+EE_AppScript_*.xlsx
+Resumen_Diario*.xlsx
+MapaAgua*.xlsx
+DGA_Pozo*.xlsx

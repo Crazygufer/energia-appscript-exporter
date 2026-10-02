@@ -1,0 +1,4 @@
+﻿equipo,tagid,uuid,borde_inicio,delta_inicio,borde_fin,delta_fin,lecturas_backfill,retrocesos,duplicados,lectura_cierre,ea_cierre,consumo_actual,consumo_corregido,accumulated_actual,accumulated_corregido,resultado
+Blomacs 10,1472,263f108c-b499-4706-8ffd-24a4e71096ab,OK,0.0,OK,0.0,463,0,0,2026-08-21 06:59:01.000,3328016.0,11.0,61.0,3327966.0,3328016.0,APROBADO
+KHS 8,1432,4a6fbb73-d1ff-4ae5-b6a1-236df6fdeb57,OK,1.0,OK,0.0,458,0,0,2026-08-21 06:59:00.000,8053345.0,32.0,132.0,8053245.0,8053345.0,APROBADO
+Compresor de Alta,1521,0bb125fe-69c6-48fb-84ef-070bf49ed246,OK,0.0,OK,0.0,467,0,0,2026-08-21 06:58:59.000,6737218.0,6.0,6.0,6737218.0,6737218.0,APROBADO
